@@ -1,5 +1,6 @@
-# QmlClassDiagram
-It's a Qml components dependency diagram based on Qt 6.5 documentation
+# Qml elements diagram
+
+It's a Qml elements dependency diagram based on Qt 6.5 documentation
 
 ## Basic Qml types
 
